@@ -1,4 +1,5 @@
-# vue-shangpinhui
+# shopping-project
+
 
 ## Project setup
 ```
